@@ -20,3 +20,7 @@ end
 
 p even_odd(17)
 p even_odd(6)
+
+pokemon = "Pikachu"
+
+puts pokemon == "Charizard" ? "Fireball" : "Not Charizard!!!"
