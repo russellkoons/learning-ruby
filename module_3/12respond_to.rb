@@ -6,7 +6,9 @@ if num.respond_to?("next")
   p num.next
 end
 
-puts "Hello".respond_to?(:upcase)
-
 # respond_to? checks to see if a particular object can respond to
 # another method
+
+puts "Hello".respond_to?(:upcase)
+
+# can use a symbol with a colon instead of a string
