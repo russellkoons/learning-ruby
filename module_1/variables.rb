@@ -1,7 +1,7 @@
 name = "Russell"
 last_name = "Koons"
 handsome = false
-age = 17 + 13
+age = 17 + 14
 
 puts name
 puts last_name
