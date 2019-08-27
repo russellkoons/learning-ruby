@@ -1,5 +1,7 @@
 # Fizzbuzz!
 
+# We all know fizzbuzz. Here's the Ruby version
+
 def fizzbuzz(num)
   i = 1
   until i > num
@@ -16,4 +18,4 @@ def fizzbuzz(num)
   end
 end
 
-fizzbuzz(69)
+fizzbuzz(30)
